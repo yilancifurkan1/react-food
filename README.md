@@ -6,12 +6,13 @@
 
 <p>Bir kaç örneği aşağıda fotoğraflarda verilmiştir.</p>
 
-![Ekran görüntüsü 2024-03-27 155924](https://github.com/yilancifurkan1/react-food/assets/112757763/a2547e2f-6de4-49da-8b10-24bd8e87d09e)
+![Ekran görüntüsü 2024-03-27 155924](https://github.com/yilancifurkan1/react-food/assets/112757763/6c0cbdd6-219d-4400-80a5-5ae2d7877cfa)
 
-![Ekran görüntüsü 2024-03-27 160001](https://github.com/yilancifurkan1/react-food/assets/112757763/8567ed2b-ec3a-40de-8600-33373ec08c2f)
 
-![Ekran görüntüsü 2024-03-27 155954](https://github.com/yilancifurkan1/react-food/assets/112757763/ffd1dfdf-361e-4f48-bda3-f1f75cbbace5)
+![Ekran görüntüsü 2024-03-27 155933](https://github.com/yilancifurkan1/react-food/assets/112757763/61e12644-03e3-4d2f-96a1-158a8482b07e)
 
-![Ekran görüntüsü 2024-03-27 155945](https://github.com/yilancifurkan1/react-food/assets/112757763/bbb9c728-7ce4-4d22-868d-07b5053cf263)
+![Ekran görüntüsü 2024-03-27 155945](https://github.com/yilancifurkan1/react-food/assets/112757763/608360f8-87a6-45cc-8743-fc5c8c5274f4)
 
-![Ekran görüntüsü 2024-03-27 155933](https://github.com/yilancifurkan1/react-food/assets/112757763/a80c8517-8383-4e42-a406-cf8a9f398232)
+![Ekran görüntüsü 2024-03-27 160001](https://github.com/yilancifurkan1/react-food/assets/112757763/6fe29f20-d4ea-430e-bf83-5574fc409292)
+
+![Ekran görüntüsü 2024-03-27 155954](https://github.com/yilancifurkan1/react-food/assets/112757763/c67c8e88-b857-46aa-b75f-da282e3efc91)
